@@ -1,5 +1,5 @@
 {
-  "name": "pancake-toolkit",
+  "name": "@pancakeswap/uikit",
   "version": "1.0.0",
   "description": "Pancake frontend packages",
   "private": true,
